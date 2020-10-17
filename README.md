@@ -1,6 +1,6 @@
 # Hawthorn-Signs-Neon
 
-This is a E-commerce WordPress website. The site is built by Elementor, Woocommerce and Woolementor.
+This is a E-commerce WordPress website. The site is built by Elementor, Woocommerce and Woolementor. A mobile version of the website is also designed for clients to shop simply by their phones.
 
 Here is a link to the website: http://hsn.smokinshisha.com.au/
 
