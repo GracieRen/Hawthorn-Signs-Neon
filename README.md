@@ -13,5 +13,5 @@ Home Page:
 
 
 Shop Page:
-![](/Website%20Screenshot/Shope%20Page/ProductArchive.png)
-![](/Website%20Screenshot/Shope%20Page/SingleProduct.png)
+![](/Website%20Screenshot/Shop%20Page/ProductArchive.png)
+![](/Website%20Screenshot/Shop%20Page/SingleProduct.png)
