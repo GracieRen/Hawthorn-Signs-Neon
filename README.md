@@ -12,6 +12,8 @@ Home Page:
 ![](/Website%20Screenshot/Home%20Page/HomePage3.png)
 
 
-Shop Page:
+Product Archive Page:
 ![](/Website%20Screenshot/Shop%20Page/ProductArchive.png)
+
+Single Product Page:
 ![](/Website%20Screenshot/Shop%20Page/SingleProduct.png)
