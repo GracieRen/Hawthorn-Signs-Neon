@@ -4,7 +4,7 @@ This is a E-commerce WordPress website. The site is built by Elementor, Woocomme
 
 Here is a link to the website: http://hsn.smokinshisha.com.au/
 
-Some website screenshots are shown as follows.
+Some website demos are shown as follows.
 
 Home Page:
 ![](/Website%20Screenshot/Home%20Page.gif)
